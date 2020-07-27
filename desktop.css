@@ -1,0 +1,151 @@
+.desktop{
+    background: url(pictures/BG.jpg) no-repeat center / cover;
+    height: 900px;
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 15px;
+     
+    
+}
+.desktop-logo{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.leftside{
+    font-size: 18px;
+    margin-left: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
+.rightside{
+    margin: 0 60px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+}
+.componenets{
+    text-decoration: none;
+    color: white;
+}
+.down{
+    margin-left: 30px;
+}
+.download{
+    text-decoration: none;
+    color: white;
+    margin-left: 5px;
+}
+.twit{
+    margin-left: 30px;
+}
+.fac{
+    margin-left: 30px;
+}
+.inst{
+    margin-left: 30px;
+}
+.desktop-sign{
+    margin-top:100px;
+    margin-left: 450px;
+    padding-top: 20px;
+    width: 324px;
+    height: 150px;
+    background-color:rgb(175, 56, 175);
+    text-align: center;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.12), 0px 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    margin-bottom: -270px;
+    position: absolute;      
+}
+.signature{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    padding-bottom: 30px;    
+}
+.fac2{    
+    padding: 0 20px;
+}
+.twit2{
+    padding: 0 20px;
+}
+.G-white{
+    padding: 0 20px;
+}
+.fill-gaps{    
+    margin-top: 150px;
+    width: 330px;
+    height: 470px;
+    background-color: white;
+    margin-left: 429px;
+    border-radius: 3px;
+    padding: 20px;
+           
+}
+.fill-gaps-head{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 0.87);
+    padding-top: 144px;
+    text-align: center;
+}
+.First-Name{
+    margin-top: 50px;
+    width: 90%;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    
+}
+/* ::placeholder{
+    margin-top: 100px;
+} */
+.Email{
+    margin-top: 50px;
+    width: 90%;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+.Lock{
+    margin-top: 50px;
+    width: 90%;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+}
+.start{
+    border: none;
+    color: purple;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.bottom{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom-words{
+    display: flex;
+    justify-content: start;
+}
+.words{
+    padding-left: 30px;
+}
+.corp{
+    padding-right: 100px;
+}
