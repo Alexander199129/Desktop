@@ -1,5 +1,5 @@
 .desktop{
-    background: url(Desktop/pic/BG.jpg) no-repeat center / cover;
+    background: url(./pic/BG.jpg) no-repeat center / cover;
     height: 900px;
     color: white;
     padding-top: 100px;
